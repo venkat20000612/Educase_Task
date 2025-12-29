@@ -5,5 +5,6 @@ module.exports = {
     extend: {},
   },
   plugins: [],
+  base: "/Educase_Task/",
 }
 
